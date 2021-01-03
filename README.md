@@ -6,5 +6,5 @@ mvc,  delegate
 
 
 ##storyBoard : 
-![Uploading Screen Shot 2021-01-03 at 9.35.59.png…]()
+
 
